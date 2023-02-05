@@ -48,3 +48,4 @@ Wifi&BT kartı Intel AC 8260 ile değiştirildi. BT aktif.
 
 EFI klasörünü kullanmak isteyen arkadaşlar sadece AirportItlwm.kext'ini kuracağı sisteme göre değiştirsinler. Değiştirmedikleri taktirde sistem kendini resetliyor.
 
+https://github.com/celaleddinemre/AsusVivobookX540UA-DM3498/blob/main/Ekran%20Resmi%202023-02-05%2018.50.48.png
