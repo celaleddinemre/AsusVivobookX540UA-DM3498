@@ -32,6 +32,8 @@ Ram:4GB Dahili + 8GB Harici toplam 12GB DDR4
 
 -Batarya
 
+-HDMI Görüntü Aktarımı
+
 Çalışmayan Özellikler
 
 -SD Kart Okuyucu
